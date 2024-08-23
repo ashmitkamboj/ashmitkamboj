@@ -3,7 +3,6 @@
 - 👋 Hi, I’m @ashmitkamboj
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at ashmitkamboj@gmail.com
 
 <!---
